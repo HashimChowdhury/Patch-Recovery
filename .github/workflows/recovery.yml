@@ -9,7 +9,7 @@ on:
         default: 'https://www.filesend.jp/l/en-US/OYkUQ4'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://transfer.sh/%28/WrIj5Y/recovery.img.lz4%29.zip
 
 jobs:
   build:
